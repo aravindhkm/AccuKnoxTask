@@ -1,0 +1,77 @@
+[
+    {
+        "id": 1,
+        "foodName": "Subway Club Salad",
+        "totalOrder": 0
+    },
+    {
+        "id": 2,
+        "foodName": "Potato Chip",
+        "totalOrder": 0
+    },
+    {
+        "id": 3,
+        "foodName": "Chocolate Chunk Cookie",
+        "totalOrder": 0
+    },
+    {
+        "id": 4,
+        "foodName": "Cool Wrap",
+        "totalOrder": 0
+    },
+    {
+        "id": 5,
+        "foodName": "Cobb Salad",
+        "totalOrder": 0
+    },
+    {
+        "id": 6,
+        "foodName": "Greek Yogurt Parfait",
+        "totalOrder": 0
+    },
+    {
+        "id": 7,
+        "foodName": "Waffle Fries",
+        "totalOrder": 0
+    },
+    {
+        "id": 8,
+        "foodName": "Hot and Spicy McChicken",
+        "totalOrder": 0
+    },
+    {
+        "id": 9,
+        "foodName": "Buttermilk Crispy Tenders",
+        "totalOrder": 0
+    },
+    {
+        "id": 10,
+        "foodName": "Crispy Chicken Sandwich",
+        "totalOrder": 0
+    },
+    {
+        "id": 11,
+        "foodName": "Southwest Salad",
+        "totalOrder": 0
+    },
+    {
+        "id": 12,
+        "foodName": "Grilled Chicken Snack Wrap",
+        "totalOrder": 0
+    },
+    {
+        "id": 13,
+        "foodName": "Egg White Delight",
+        "totalOrder": 0
+    },
+    {
+        "id": 14,
+        "foodName": "McGriddle",
+        "totalOrder": 0
+    },
+    {
+        "id": 15,
+        "foodName": "Hot Cakes",
+        "totalOrder": 0
+    }
+]
